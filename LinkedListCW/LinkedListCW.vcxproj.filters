@@ -26,5 +26,8 @@
     <ClCompile Include="LinkedListCW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\LinkedListDemo\LinkedListDemo\DoubleLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
